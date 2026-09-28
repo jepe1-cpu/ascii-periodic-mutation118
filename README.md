@@ -1,7 +1,7 @@
 # ascii-periodic-mutation118
 A 10-Stage Survival Gauntlet RPG based on the Periodic Table of Elements.
 
-PERIODIC MUTATION 118 Project Lead & Main Engine Architect: Salvador John Patrick Collaborators: [Your Teammate's Name Here]
+PERIODIC MUTATION 118 Project Lead & Main Engine Architect: Salvador John Patrick Collaborators: [ Teammate's Name Here]
 
 Project Overview "PERIODIC MUTATION 118" is a 10-Stage Survival Gauntlet RPG based on the Periodic Table of Elements. The game features a turn-based combat system where the player equips up to 3 elements to battle anomalies, utilizing simulated QTE timing and Elemental Type advantages.
 
